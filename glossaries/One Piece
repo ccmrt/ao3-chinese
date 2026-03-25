@@ -53,11 +53,12 @@ Viola=维奥拉
 Cavendish=卡文迪许
 Bartolomeo=巴托洛米奥
 Sai=赛
-Baby 5=巴比5
+Baby 5=baby 5
 Hajrudin=海尔丁
 Leo=雷欧
 Shanks=香克斯
 Figarland=费加兰德
+Shamrock=夏姆洛克
 Red-Haired Shanks=红发香克斯
 Akagami=红发
 Ben Beckman=本 贝克曼
@@ -317,7 +318,7 @@ Totto Land=托特兰
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
-CP0=CP0
-CP9=CP9
+CP0
+CP9
 ZOU
 SWORD
